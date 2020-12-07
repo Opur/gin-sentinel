@@ -1,4 +1,4 @@
-module github.com/Opur/gin-sentinel
+module github.com/opur-io/gin-sentinel
 
 go 1.15
 
